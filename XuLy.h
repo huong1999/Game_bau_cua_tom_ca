@@ -1,7 +1,10 @@
 #ifndef XULY_H_INCLUDED
 #define XULY_H_INCLUDED
-
+#include<iostream>
 #include<Windows.h>
+#include"Console.h"
+
+using namespace std;
 
 bool batDauChoi(char kitu);
 
