@@ -1,6 +1,3 @@
-#include<iostream>
-#include <conio.h>
-#include<cstdlib>
 #include"NguoiChoi.h"
 
 char luaChonChoi(){
