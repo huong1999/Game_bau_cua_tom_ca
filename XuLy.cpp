@@ -1,14 +1,15 @@
-#include<Windows.h>
 #include"XuLy.h"
-#include"Console.h"
-bool batDauChoi(char kitu){
+
+bool batDauChoi(char kitu)
+{
 	if(kitu=='Y'||kitu=='y')					//kiem tra Yes/No
 		return true;
 	else if(kitu=='N'||kitu=='n')
 		return false;
 }
 
-int hamsosanh(int &xucxac,int tom,int cua,int ca,int bau,int nai,int ga){
+int hamsosanh(int &xucxac,int tom,int cua,int ca,int bau,int nai,int ga)
+{
 	int tien;
 
 	if	   (xucxac == 1) 		tien = tom;				//the gia tri dat cuoc cua cac linh vat ma xuc xac quay duoc
@@ -22,7 +23,8 @@ int hamsosanh(int &xucxac,int tom,int cua,int ca,int bau,int nai,int ga){
 }
 
 
-int tinhtien(int &tien,int tien1,int tien2,int tien3,inttom,int cua,int ca,int bau,int nai,int ga,int con1,int con2,int con3){
+int tinhtien(int &tien,int tien1,int tien2,int tien3,int tom,int cua,int ca,int bau,int nai,int ga,int con1,int con2,int con3)
+{
 
 	if(con1!=con2&&con2!=con3&&con1!=con3)
 
@@ -43,6 +45,7 @@ int tinhtien(int &tien,int tien1,int tien2,int tien3,inttom,int cua,int ca,int b
 
 	TextColor (14);		//mau vang
 	cout<<"\nTong ket:\n     Ban co "<<tien<<"$"<<endl;
+	
 	return tien;
 }
 
