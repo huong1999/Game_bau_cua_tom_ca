@@ -1,7 +1,9 @@
 #ifndef HIENTHI_H_INCLUDED
 #define HIENTHI_H_INCLUDED
-
+#include<iostream>
 #include<Windows.h>
+
+using namespace std;
 void inMenu();
 
 void inHuongDan();
