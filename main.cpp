@@ -1,9 +1,11 @@
 #include <iostream>
 #include<conio.h>
-#include<ctime>
+#include<time.h>
+//#include<ctime>
 #include<Windows.h>
 #include"HienThi.h"
 #include"NguoiChoi.h"
+#include"KhoiTao.h"
 #include"XuLy.h"
 #include"Console.h"
 
