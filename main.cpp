@@ -1,7 +1,6 @@
 #include <iostream>
 #include<conio.h>
 #include<time.h>
-//#include<ctime>
 #include<Windows.h>
 #include"HienThi.h"
 #include"NguoiChoi.h"
