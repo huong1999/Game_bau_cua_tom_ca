@@ -48,6 +48,3 @@ int tinhtien(int &tien,int tien1,int tien2,int tien3,int tom,int cua,int ca,int 
 	
 	return tien;
 }
-
-
-
