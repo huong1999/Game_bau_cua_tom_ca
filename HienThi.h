@@ -10,7 +10,7 @@ void inHuongDan();
 
 void chuyenTenBien(int linhVat);
 
-void chuyenTenketQua(int con1,int con2,int con3);
+void chuyenTenketQua(int &con1,int &con2,int &con3);
 
 void inDiemHientai(int &tien);
 
