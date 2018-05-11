@@ -11,7 +11,6 @@
 using namespace std;
 
 int main(){
-	char kitu;
 	int con1,con2,con3;
 	int bau,tom,cua,ca,nai,ga;
 	int tien=10,tien1,tien2,tien3;
