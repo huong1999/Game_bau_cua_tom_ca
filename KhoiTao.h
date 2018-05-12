@@ -4,6 +4,6 @@
 #include<time.h>
 #include<cstdlib>
 
-int khoitao();      //sinh so ngau nhien
+int khoiTao();      //sinh so ngau nhien
 
 #endif // KHOITAO_H_INCLUDED
