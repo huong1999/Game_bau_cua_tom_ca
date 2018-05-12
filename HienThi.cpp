@@ -4,11 +4,11 @@
 
 void inMenu(){
 	TextColor (10);
-	cout<<" ___________________________________________________\n<_________________GAME BAU CUA TOM CA_______________>\n\n";			//cau hinh menu
+	cout<<" _____________________________________________________\n<_________________GAME BAU CUA TOM CA_________________>\n\n";			//cau hinh menu
 	TextColor (14);
-	cout<<"            O"<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<"> MENU <"<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<"O\n                "<<char(176)<<"                    "<<char(176)<<"\n                "<<char(176)<<"  1-BAT DAU CHOI    "<<char(176)<<"\n                "<<char(176)<<"  2-HUONG DAN CHOI  "<<char(176)<<"\n                "<<char(176)<<"  3-THOAT           "<<char(176)<<"\n                "<<char(176)<<"                    "<<char(176)<<"\n            O"<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<"O\n";
+	cout<<"            O"<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<"> MENU <"<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<"O\n                "<<char(176)<<"                     "<<char(176)<<"\n                "<<char(176)<<"   1-BAT DAU CHOI    "<<char(176)<<"\n                "<<char(176)<<"   2-HUONG DAN CHOI  "<<char(176)<<"\n                "<<char(176)<<"   3-THOAT           "<<char(176)<<"\n                "<<char(176)<<"                     "<<char(176)<<"\n            O"<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<char(205)<<"O\n";
 	TextColor (10);
-	cout<<" ____________________________________________________\n<____________________________________________________>\n";
+	cout<<" _____________________________________________________\n<_____________________________________________________>\n";
 }
 
 void inHuongDan(){
