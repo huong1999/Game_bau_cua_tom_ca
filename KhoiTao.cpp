@@ -1,6 +1,6 @@
 #include"KhoiTao.h"
 
-int khoitao(){
+int khoiTao(){
 	int xucxac;
 
 		xucxac = rand() % 6+1;
