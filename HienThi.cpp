@@ -13,7 +13,7 @@ void inMenu(){
 
 void inHuongDan(){
 	clrscr();
-	cout<<" ___________________";
+	cout<<"\n ___________________";
 	TextColor (10);
 	cout<<"HUONG DAN CHOI TRO CHOI BAU CUA TOM CA";
 	TextColor (11);
