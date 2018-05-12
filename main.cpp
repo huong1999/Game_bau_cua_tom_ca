@@ -30,9 +30,9 @@ int main(){
 				clrscr();	//xoa man hinh
 
 				srand(time(NULL));					//sinh so ngau nhien cho xuc xac
-				con1 = khoitao();
-				con2 = khoitao();
-				con3 = khoitao();
+				con1 = khoiTao();
+				con2 = khoiTao();
+				con3 = khoiTao();
 
 				TextColor(12);
 				do{
